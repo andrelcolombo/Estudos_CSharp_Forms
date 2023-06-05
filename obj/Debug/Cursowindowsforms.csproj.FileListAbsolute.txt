@@ -1,0 +1,11 @@
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\bin\Debug\Cursowindowsforms.exe.config
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\bin\Debug\Cursowindowsforms.exe
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\bin\Debug\Cursowindowsforms.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\obj\Debug\Cursowindowsforms.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\obj\Debug\Cursowindowsforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\obj\Debug\Cursowindowsforms.HelloWorld.resources
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\obj\Debug\Cursowindowsforms.Properties.Resources.resources
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\obj\Debug\Cursowindowsforms.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\obj\Debug\Cursowindowsforms.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\obj\Debug\Cursowindowsforms.exe
+C:\Users\andre\OneDrive\Área de Trabalho\C#\Cursowindowsforms\obj\Debug\Cursowindowsforms.pdb
